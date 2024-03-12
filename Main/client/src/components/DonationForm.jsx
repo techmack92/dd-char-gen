@@ -7,9 +7,9 @@ const DonationForm = ({ handleDonate }) => {
   };
 
   return (
-    <div className='container'>
+    <div>
       <form onSubmit={handleSubmit}>
-        <button className="btn" type="submit">Checkout</button>
+        <button type="submit">Checkout</button>
       </form>
     </div>
   );

@@ -42,7 +42,7 @@ const DonationPage = () => {
   };
 
   return (
-    <div className='donate-text'>
+    <div>
       <h1>Donate</h1>
       <DonationForm handleDonate={handleDonate} />
     </div>

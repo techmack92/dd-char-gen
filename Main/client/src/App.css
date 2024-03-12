@@ -72,6 +72,10 @@ body {
   margin-bottom: 3vh;
 }
 
+.donate-text {
+  
+}
+
 .character-cards {
   display: flex;
   flex-wrap: wrap;
